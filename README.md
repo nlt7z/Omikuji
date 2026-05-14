@@ -1,0 +1,2 @@
+Omikuji: Draw Your Fortune
+<img width="1926" height="1432" alt="Screenshot 2026-05-14 at 01 46 33" src="https://github.com/user-attachments/assets/d1525173-e3bc-4448-87a2-bd10d8aec63e" /><img width="1902" height="1428" alt="Screenshot 2026-05-14 at 01 46 47" src="https://github.com/user-attachments/assets/07e80873-0111-45d8-a4fe-361a23dcad1d" /><img width="1730" height="1084" alt="Screenshot 2026-05-14 at 01 47 01" src="https://github.com/user-attachments/assets/55cf6668-d8b5-4841-b80a-42c5184baa20" />
